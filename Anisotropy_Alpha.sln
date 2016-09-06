@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Anisotropy_Alpha", "Anisotropy_Alpha\Anisotropy_Alpha.vcxproj", "{BF9FA1FD-4641-44D6-9CD9-A1B2F9248BF9}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9FA1FD-4641-44D6-9CD9-A1B2F9248BF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF9FA1FD-4641-44D6-9CD9-A1B2F9248BF9}.Debug|Win32.Build.0 = Debug|Win32
+		{BF9FA1FD-4641-44D6-9CD9-A1B2F9248BF9}.Release|Win32.ActiveCfg = Release|Win32
+		{BF9FA1FD-4641-44D6-9CD9-A1B2F9248BF9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

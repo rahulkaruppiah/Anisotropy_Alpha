@@ -1,0 +1,10 @@
+13/07/2016
+
+1. Graph has been implemented using gnuplot. A seperate header file called 'graph.h' has been added for displaying graphs. 
+gnuplot has to be installed in the system for this to work. Setup file can be found in the gnuplot folder found within the Home folder.
+
+15/07/2016
+
+1. Check on if the y coordinates are coppied to the x attribute or y attribute of the ray function r. (Not sure if this an actual error if it's done on purpose)
+2. Check if input ray function and exit ray function can be used as one function since the area is istropic
+3. Changes have to be made for the angles: Anticlockwise is supposed to be positive and other way is negative
